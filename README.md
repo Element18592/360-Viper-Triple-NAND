@@ -10,6 +10,8 @@
 - QSB Form Factor
 - Easily Switch Between NANDs
 
+Firmware by: Octal450
+
 ## Product Page
 *Unreleased*
 
