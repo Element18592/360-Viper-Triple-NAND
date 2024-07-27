@@ -10,6 +10,8 @@
 - QSB Form Factor
 - Easily Switch Between NANDs
 
+PCB Thickness: 0.8mm
+
 Firmware by: Octal450
 
 ## Product Page
