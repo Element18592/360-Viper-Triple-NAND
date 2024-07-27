@@ -5,7 +5,7 @@
 ## Description
 
 - Small Board Footprint
-- Works with 16MB Phats And Slims with Viper Adapters
+- Works with 16MB Jaspers And Slims with Viper Adapters
 - No Trace Cuts Required
 - QSB Form Factor
 - Easily Switch Between NANDs
